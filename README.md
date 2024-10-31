@@ -1,18 +1,19 @@
-## Hi there 👋
+<p align="right"> 
+    <img src="https://komarev.com/ghpvc/?username=TharushaPerera27070&label=Profile%20views&color=0e75b6&style=flat" alt="TharushaPerera27070" /> 
+</p>
 
-<!--
-**TharushaPerera27070/TharushaPerera27070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tharusha+Perera!;" />
+</h1>
 
-Here are some ideas to get you started:
+<hr/>
+<br>
+<br>
+<p align="center">
+    <a href=""><img src="https://streak-stats.demolab.com?user=TharushaPerera27070&theme=highcontrast" alt="GitHub Streak" /></a>
+</p>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+![snake gif](https://github.com/TharushaPerera27070/TharushaPerera27070/blob/output/github-contribution-grid-snake-dark.svg)
 
