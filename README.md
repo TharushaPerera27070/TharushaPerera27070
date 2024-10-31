@@ -15,5 +15,4 @@
 </p>
 <br>
 
-![snake gif](https://github.com/TharushaPerera27070/TharushaPerera27070/blob/output/github-contribution-grid-snake-dark.svg)
 
