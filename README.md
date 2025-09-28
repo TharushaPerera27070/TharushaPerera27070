@@ -13,7 +13,10 @@
 <hr/>
 <div align="center">
     <h2>Familiar with:</h2>
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,js,express,nodejs,react,ts,next,tailwind,py,git,github" alt="Languages and Tools" title="Languages and Tools"/></div>
+    <img src="https://skillicons.dev/icons?i=dart,flutter,js,ts,nodejs,express,react,next,tailwind,firebase,py,git,github" 
+     alt="Languages and Tools" 
+     title="Languages and Tools"/>
+</div>
 
 
 <hr/>
