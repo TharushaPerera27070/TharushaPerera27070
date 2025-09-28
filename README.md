@@ -13,7 +13,7 @@
 <hr/>
 <div align="center">
     <h2>Familiar with:</h2>
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,js,react,tailwind,py,git,github" alt="Languages and Tools" title="Languages and Tools"/></div>
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,js,react,ts,next,tailwind,py,git,github" alt="Languages and Tools" title="Languages and Tools"/></div>
 
 
 <hr/>
@@ -22,7 +22,7 @@
 <p align="center">
     <a href=""><img src="https://streak-stats.demolab.com?user=TharushaPerera27070&theme=highcontrast" alt="GitHub Streak" /></a>
 </p>
-<br>
+<!-- <br> -->
   <!-- <div align="center">
 <a href="https://linkedin.com/in/tharusha-perera-b48ba5252" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%231E77B2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 2px;" />
